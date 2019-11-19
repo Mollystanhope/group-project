@@ -25,6 +25,11 @@ padding: 20px 80px
   margin: 20px;
 }
 
+/* Right position */
+.right {
+  position: absolute;
+  right: 0px;
+}
 
 
 /* Contact Form */

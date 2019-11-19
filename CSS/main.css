@@ -15,6 +15,16 @@ padding: 20px 80px
 
 }
 
+/* Box */
+.box {
+  background-color: black;
+  color: white;
+  width: 1000px;
+  border: 15px grey;
+  padding: 50px;
+  margin: 20px;
+}
+
 
 
 /* Contact Form */

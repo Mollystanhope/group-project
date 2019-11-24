@@ -15,6 +15,13 @@ padding: 20px 80px
 
 }
 
+
+/* dotted border */
+.dotted {
+  border-style: dotted;
+}
+
+
 /* Box */
 .box {
   background-color: black;

@@ -25,6 +25,19 @@ padding: 20px 80px
   margin: 20px;
 }
 
+/* Pick of the week boxes */
+.pickbox {
+  background-color: black;
+  color: white;
+  width: 500px;
+  border: 5px grey;
+  padding: 5px;
+  margin: 1px;
+}
+
+
+
+
 /* Right position */
 .right {
   position: absolute;

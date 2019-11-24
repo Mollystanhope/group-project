@@ -25,17 +25,46 @@ padding: 20px 80px
   margin: 20px;
 }
 
-/* Pick of the week boxes */
-.pickbox {
-  background-color: black;
+
+/* Social media buttons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
   color: white;
-  width: 500px;
-  border: 5px grey;
-  padding: 5px;
-  margin: 1px;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
 }
 
 
+
+/* Centre */
+.centre {
+  text-align: center;
+}
 
 
 /* Right position */

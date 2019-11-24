@@ -14,7 +14,10 @@ nav {
 padding: 20px 80px
 
 }
-
+/* mixed border */
+.mix {
+  border-style: none none double none;
+}
 
 /* dotted border */
 .dotted {
@@ -26,10 +29,10 @@ padding: 20px 80px
 .box {
   background-color: black;
   color: white;
-  width: 1000px;
+  width: 1090px;
   border: 15px grey;
-  padding: 50px;
-  margin: 20px;
+  padding: 20px;
+  margin: 10px;
 }
 
 

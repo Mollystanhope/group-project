@@ -5,6 +5,13 @@ body{
 
 }
 
+.nav-ul-format {
+    width: 90%;
+}
+.nav-li-format {
+    float: left;
+    width: 33%;
+}
 
 h1{padding-top:40px;}
 
@@ -16,7 +23,8 @@ h1{padding-top:40px;}
 /* nav bar */
 nav {
 padding: 20px 80px
-
+font-family: gill sans;
+  
 }
 /* mixed border */
 .mix {

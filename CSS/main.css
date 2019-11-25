@@ -8,13 +8,84 @@ body{
 
 h1{padding-top:40px;}
 
+/*bold font */
+.bold {
+  font-weight: 700;
+}
 
 /* nav bar */
 nav {
 padding: 20px 80px
 
 }
+/* mixed border */
+.mix {
+  border-style: none none double none;
+}
 
+/* dotted border */
+.dotted {
+  border-style: dotted;
+}
+
+
+/* Box */
+.box {
+  background-color: black;
+  color: white;
+  width: 1090px;
+  border: 15px grey;
+  padding: 20px;
+  margin: 10px;
+}
+
+
+/* Social media buttons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
+
+/* Centre */
+.centre {
+  text-align: center;
+}
+
+
+/* Right position */
+.right {
+  position: absolute;
+  right: 0px;
+}
 
 
 /* Contact Form */

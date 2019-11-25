@@ -22,10 +22,15 @@ h1{padding-top:40px;}
 
 /* nav bar */
 nav {
-padding: 20px 80px
+padding: 20px 80px;
 font-family: gill sans;
-  
+
 }
+
+.navbar{
+  font-family: 'Anton', sans-serif;
+}
+
 /* mixed border */
 .mix {
   border-style: none none double none;
